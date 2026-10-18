@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://winosseur.com/</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://winosseur.com/about.html</loc>
@@ -70,6 +70,10 @@
   <url>
     <loc>https://winosseur.com/posts/somebody-gave-you-a-bottle-now-what.html</loc>
     <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
+    <loc>https://winosseur.com/posts/the-family-that-sold-its-wine-for.html</loc>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://winosseur.com/wine/</loc>
